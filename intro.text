@@ -1,0 +1,9 @@
+project pages 项目站点
+访问：
+  https://用户名.github.io/仓库名
+搭建步骤：
+  1)进入项目主页，点击settings
+  2)在settings页面，点击【launch automatic page generator】来自动生成主题页面
+  3)新建站点基础信息设置
+  4)选择主题
+  5)生成网页
